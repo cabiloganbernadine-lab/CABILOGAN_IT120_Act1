@@ -2,3 +2,5 @@ Elementary School: Calibunan Elementary School
 Year Graduated: 2016
 High School: Cabadbaran City National High School
 Year Graduated: 2021
+College: Caraga State University Cabadbaran Campus
+Program: BS Information Technology
